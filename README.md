@@ -1,6 +1,6 @@
 <h1>Shaunak Peri <br/><a href="https://github.com/shaunakperi"> Cybersecurity Student</a></h1>
 
-I’m a Junior studying Computer Science at UNC Charlotte with a growing focus on Cybersecurity. I’m passionate about technology and eager to sharpen my skills in this field. I have gained hands-on experience with languages and tools like C++, Python, C, HTML, CSS, SQL, Linux, Wireshark, and Java.
+I’m a Junior studying Computer Science at UNC Charlotte with a growing focus on Cybersecurity. I’m passionate about technology and eager to sharpen my skills in this field. I have gained hands-on experience with languages and tools like Python, SQL, Linux, and Wireshark.
 
 
 <h2>Certifications: </h2>
