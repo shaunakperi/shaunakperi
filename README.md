@@ -25,7 +25,7 @@ I’m a Junior studying Computer Science at UNC Charlotte with a growing focus o
 ‣ <a href=https://www.freecodecamp.org/certification/speri8/responsive-web-design>Responsive Web Design Certificate</a> 
 
 
-<h2>CTF(Capture The Flag</h2>
+<h2>CTF(Capture The Flag)</h2>
 ‣ <a href=https://github.com/shuanakperi/Sherlock-Holmes-CTF>Hack The Box - Capture The Flag - Sherlock Holmes</a>
 
 <h2>Connect With Me</h2>
