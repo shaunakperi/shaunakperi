@@ -4,7 +4,7 @@ I’m a Junior studying Computer Science at UNC Charlotte with a growing focus o
 
 
 <h2>Certifications: </h2>
-‣ <a href=>Google Cybersecurity Professional</a>
+‣ <a href=https://www.coursera.org/account/accomplishments/professional-cert/5LHN42BXR1T6>Google Cybersecurity Professional</a>
 <br>
 <br>
 ‣ <a href=https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68c03978a8bab8f3748b510d_1757443370880_completion_certificate.pdf>Mastercard Cybersecurity Job Simulation</a>
