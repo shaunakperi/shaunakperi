@@ -28,8 +28,6 @@ I’m a Junior studying Computer Science at UNC Charlotte with a growing focus o
 <h2>CTF(Capture The Flag)</h2>
 ‣ <a href=https://github.com/shuanakperi/Sherlock-Holmes-CTF>Hack The Box - Capture The Flag - Sherlock Holmes</a>
 
-<h2>Hackathon</h2>
-‣ <a href=https://github.com/Twice-hc/hackathon_project>CCI StartUp Hackathon</a>
 
 <h2>Connect With Me</h2>
 ‣ <a href=https://www.linkedin.com/in/shaunak-peri-315744245>Linkedin - Shaunak Peri </a>
