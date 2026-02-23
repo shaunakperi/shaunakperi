@@ -39,15 +39,16 @@ This portfolio showcases my projects, certifications, and technical experience a
 - Solved challenges in forensics, AI exploitation, reverse engineering, and web exploitation under strict time constraints.  
 - Demonstrated strong technical analysis, efficient triage strategy, and SOC-style teamwork in a competitive, time-sensitive environment.
 
-**October 2025 | Team Competition**
-### Hack The Box – Sherlock Holmes CTF  
+### Hack The Box – Holmes CTF 2025 (Blue Team CTF) 
+**September 2025 | Team Competition**
 
-**Tools & Skills Used:**  
-Wireshark, Linux, OSINT, Log Analysis, Digital Forensics, Basic Reverse Engineering  
+**Tools Used:** Wireshark, Linux, Log Analysis, Memory Forensics, Disk Forensics, Threat Intelligence, Malware Analysis  
 
-- Investigated forensic artifacts and network traffic to uncover hidden flags.  
-- Applied structured investigative methodology to solve scenario-based challenges.  
-- Strengthened skills in analyzing logs, packet captures, and system artifacts.
+- Solved 50+ SOC, threat intelligence, and malware forensics challenges in a time-boxed incident response environment.  
+- Performed log analysis, memory and disk forensics, and malware triage to identify attack paths and root causes.  
+- Investigated forensic artifacts and network traffic to uncover indicators of compromise (IOCs).  
+- Applied structured investigative methodology to simulate real-world blue team operations.  
+- Coordinated with a 5-member blue team to prioritize cases, triage alerts, and maintain high investigative throughput under competition constraints.
 
 
 ---
