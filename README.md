@@ -29,7 +29,7 @@ This portfolio showcases my projects, certifications, and technical experience a
   🔗 [Live Site](https://d15b2yt2d869a0.cloudfront.net) · [View Project](https://github.com/shaunakperi/AWS-Cloud-Resume)
 
 - 🖥️ **Raspberry Pi 5 Cyberdeck — Offline Computer**  
-  Built a fully offline, portable cyberdeck around a Raspberry Pi 5. Runs Kiwix (offline Wikipedia, iFixit, medical references), TileServer GL (offline maps for NC, NY, and CA), and Navidrome (self-hosted music server) — all containerized with Docker and accessible via a 5-inch LCD display.  
+  Built a fully offline, portable cyberdeck around a Raspberry Pi 5. Runs Kiwix (offline Wikipedia, iFixit, medical references), TileServer GL (offline map for USA), and Navidrome (self-hosted music server), all containerized with Docker and accessible via a 5-inch LCD display.  
   🔗 [View Project](https://github.com/shaunakperi/Raspberry-Pi-Cyberdeck)
 
 ---
