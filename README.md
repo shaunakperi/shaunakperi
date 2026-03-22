@@ -6,9 +6,9 @@
 
 ## 📌 Summary  
 
-I’m a junior studying **Computer Science at UNC Charlotte** with a growing focus on **Cybersecurity**.
+I'm a junior studying **Computer Science at UNC Charlotte** with a growing focus on **Cybersecurity**.
 
-I’m passionate about understanding how systems work, identifying vulnerabilities, and strengthening digital defenses. Through hands-on labs, CTF competitions, and professional certifications, I continue building real-world skills in security analysis, networking, and system investigation.
+I'm passionate about understanding how systems work, identifying vulnerabilities, and strengthening digital defenses. Through hands-on labs, CTF competitions, and professional certifications, I continue building real-world skills in security analysis, networking, and system investigation.
 
 This portfolio showcases my projects, certifications, and technical experience as I develop into a well-rounded cybersecurity professional.
 
@@ -21,9 +21,16 @@ This portfolio showcases my projects, certifications, and technical experience a
   🔗 [View Project](https://github.com/shaunakperi/Sherlock-Holmes-CTF)
 
 - 🌐 **Web Development Projects**  
-  Responsive front-end projects built with HTML, CSS, and JavaScript.
+  Responsive front-end projects built with HTML, CSS, and JavaScript.  
   🔗 [View Project](https://github.com/shaunakperi/shaunakperi.github.io)
 
+- ☁️ **Cloud Resume — Hosted on AWS (S3 + CloudFront)**  
+  Deployed a static resume on AWS using S3 for object storage and CloudFront as a globally distributed CDN. Configured Origin Access Control (OAC) to keep the S3 bucket private while serving content publicly over HTTPS from 450+ edge locations.  
+  🔗 [Live Site](https://d15b2yt2d869a0.cloudfront.net) · [View Project](https://github.com/shaunakperi/AWS-Cloud-Resume)
+
+- 🖥️ **Raspberry Pi 5 Cyberdeck — Offline Computer**  
+  Built a fully offline, portable cyberdeck around a Raspberry Pi 5. Runs Kiwix (offline Wikipedia, iFixit, medical references), TileServer GL (offline maps for NC, NY, and CA), and Navidrome (self-hosted music server) — all containerized with Docker and accessible via a 5-inch LCD display.  
+  🔗 [View Project](https://github.com/shaunakperi/Raspberry-Pi-Cyberdeck)
 
 ---
 
@@ -34,7 +41,7 @@ This portfolio showcases my projects, certifications, and technical experience a
 **Tools Used:** Volatility3, Promon, Docker, Kali Linux, OSINT, Reverse Engineering, Digital Forensics, AI Exploitation, Web Exploitation  
 
 - Placed **2nd out of 23 collegiate teams** in an on-site Hack The Box CTF hosted by the North Carolina National Guard.  
-- Collaborated with a 5-member team as part of UNC Charlotte’s 49th Security Division.  
+- Collaborated with a 5-member team as part of UNC Charlotte's 49th Security Division.  
 - Captured 15+ forensic and exploitation-based flags across multiple domains, including OSINT, reverse engineering, digital forensics, and AI exploitation.  
 - Solved challenges in forensics, AI exploitation, reverse engineering, and web exploitation under strict time constraints.  
 - Demonstrated strong technical analysis, efficient triage strategy, and SOC-style teamwork in a competitive, time-sensitive environment.
@@ -74,10 +81,10 @@ Wireshark, Kali Linux, Nmap, TryHackMe, Basic SIEM Exposure, VS Code, HackTheBox
 Python, Java, SQL, JavaScript, Bash, C, Assembly, HTML, CSS, C++
 
 **Systems & Platforms:**  
-Linux, Windows, MySQL, Git/GitHub  
+Linux, Windows, MySQL, Git/GitHub, AWS (S3, CloudFront)
 
 **Core Knowledge Areas:**  
-Network Security, Threat Analysis, Log Investigation, Access Control, Vulnerability Assessment  
+Network Security, Threat Analysis, Log Investigation, Access Control, Vulnerability Assessment, Cloud Infrastructure  
 
 ---
 
