@@ -10,8 +10,7 @@ B.S. & M.S. candidate focused on Cybersecurity | Blue Team | Cloud Infrastructur
 
 ## About
 
-I'm a junior at UNC Charlotte building practical skills in cybersecurity, networking, and cloud infrastructure. My work spans blue team operations, CTF competitions, hands-on lab environments, and self-directed systems projects. I focus on understanding how systems are built — so I can understand how they break.
-
+I'm a junior at UNC Charlotte building practical skills in cybersecurity, networking, and cloud infrastructure. My work spans blue team operations, CTF competitions, hands-on lab environments, and self-directed systems projects. 
 ---
 
 ## Featured Projects
