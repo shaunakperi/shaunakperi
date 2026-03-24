@@ -7,10 +7,11 @@ B.S. & M.S. candidate focused on Cybersecurity | Blue Team | Cloud Infrastructur
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shaunakperi)
 
 ---
-
+ 
 ## About
-
+ 
 I'm a junior at UNC Charlotte building practical skills in cybersecurity, networking, and cloud infrastructure. My work spans blue team operations, CTF competitions, hands-on lab environments, and self-directed systems projects. 
+ 
 ---
 
 ## Featured Projects
