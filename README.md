@@ -33,7 +33,7 @@ Static resume deployed on AWS with production-grade CDN configuration.
 - S3 for object storage; CloudFront for global HTTPS delivery across 450+ edge locations
 - Configured **Origin Access Control (OAC)** to keep the bucket private while serving content publicly
 
-🔗 [Live Site](https://d15b2yt2d869a0.cloudfront.net) · [View Project](https://github.com/shaunakperi/AWS-Cloud-Resume)
+🔗 [Live Site](https://d15b2yt2d869a0.cloudfront.net) · [View Project](https://github.com/shaunakperi/AWS-Cloud-Projects/blob/main/AWS-Cloud%20Resume/README.md)
 
 ---
 
