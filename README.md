@@ -29,11 +29,18 @@ A fully offline, portable computing platform built on a Raspberry Pi 5. Designed
 
 ### ☁️ Cloud Resume — AWS (S3 + CloudFront)
 Static resume deployed on AWS with production-grade CDN configuration.
-
 - S3 for object storage; CloudFront for global HTTPS delivery across 450+ edge locations
 - Configured **Origin Access Control (OAC)** to keep the bucket private while serving content publicly
 
 🔗 [Live Site](https://d15b2yt2d869a0.cloudfront.net) · [View Project](https://github.com/shaunakperi/AWS-Cloud-Projects/blob/main/AWS-Cloud%20Resume/README.md)
+
+
+### 🤖 HR AI Smart Assistant — AWS (Bedrock + Lambda + DynamoDB)
+Serverless AI agent that handles HR queries and leave requests automatically, 24/7.
+- Bedrock Agent with RAG pipeline — HR documents stored in S3, indexed via OpenSearch Serverless for semantic search
+- Lambda action groups process leave and benefits submissions, storing records in DynamoDB
+
+🔗 [View Project](https://github.com/shaunakperi/AWS-Cloud-Projects/blob/main/AWS-AI-Smart-Assistant/README.md)
 
 ---
 
