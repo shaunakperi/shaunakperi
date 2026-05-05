@@ -14,8 +14,19 @@ I'm a junior at UNC Charlotte building practical skills in cybersecurity, networ
  
 ---
 
+
+
 ## Featured Projects
 
+### 📋 GRC Risk Register — Cybersecurity Risk Ledger
+A comprehensive cybersecurity risk register built to document, score, and track risks across key security domains using industry-standard GRC methodology.
+- Covers **7 risk domains** — Identity & Access, Endpoint Security, Vulnerability Management, Logging & Monitoring, Backup & Recovery, Cloud Security, and Third-Party Risk
+- Risks documented using **cause → event → business impact** format, scored with a likelihood × impact matrix aligned to NIST CSF
+- Includes control gap analysis, mitigation plans, ownership tracking, and an executive-ready dashboard
+
+🔗 [View Project](https://github.com/shaunakperi/GRC-Risk-Register)
+
+---
 ### 🖥️ Raspberry Pi 5 Cyberdeck — Offline Computer
 A fully offline, portable computing platform built on a Raspberry Pi 5. Designed for resilience and self-sufficiency.
 
